@@ -1,2 +1,2 @@
 # CPP-Programs
-These are all C++ Programs i worked on.
+Some of my C++ programs.
